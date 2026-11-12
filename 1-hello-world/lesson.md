@@ -1,4 +1,4 @@
-# Lesson 1: Hello World — Understanding Conventions
+# Lesson: Hello World — Understanding Conventions
 
 ## 1. The Big Idea: Conventions Are Everywhere
 
